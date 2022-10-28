@@ -1,0 +1,8 @@
+﻿  Metodos.cpp
+C:\Users\Administrador\OneDrive\Documentos\UNA Ing Sistemas\Segundo cuatri\Segundo_Proyecto\Proyecto_2_Mapas_Consulta\Proyecto_2_Mapas_Consulta\Metodos.cpp(61,22): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Administrador\OneDrive\Documentos\UNA Ing Sistemas\Segundo cuatri\Segundo_Proyecto\Proyecto_2_Mapas_Consulta\Proyecto_2_Mapas_Consulta\Metodos.cpp(62,23): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Administrador\OneDrive\Documentos\UNA Ing Sistemas\Segundo cuatri\Segundo_Proyecto\Proyecto_2_Mapas_Consulta\Proyecto_2_Mapas_Consulta\Metodos.cpp(199,22): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Administrador\OneDrive\Documentos\UNA Ing Sistemas\Segundo cuatri\Segundo_Proyecto\Proyecto_2_Mapas_Consulta\Proyecto_2_Mapas_Consulta\Metodos.cpp(200,23): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Administrador\OneDrive\Documentos\UNA Ing Sistemas\Segundo cuatri\Segundo_Proyecto\Proyecto_2_Mapas_Consulta\Proyecto_2_Mapas_Consulta\Metodos.cpp(342,22): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Administrador\OneDrive\Documentos\UNA Ing Sistemas\Segundo cuatri\Segundo_Proyecto\Proyecto_2_Mapas_Consulta\Proyecto_2_Mapas_Consulta\Metodos.cpp(343,23): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Proyecto_2_Mapas_Consulta.vcxproj -> C:\Users\Administrador\OneDrive\Documentos\UNA Ing Sistemas\Segundo cuatri\Segundo_Proyecto\Proyecto_2_Mapas_Consulta\x64\Debug\Proyecto_2_Mapas_Consulta.exe
